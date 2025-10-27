@@ -1,5 +1,5 @@
 ```
-The code provided as part of this repository is ONLY for learning purposes!
+This is the project of learning how scheduler works by implementing systick based round robin scheduler.
 ```
 
 # Resources
